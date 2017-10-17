@@ -20,5 +20,8 @@ Tech idea/scenario
 _ From a coding perspective, it is simply trying to find the difference of a specific dataset from multiple data sets. 
 
 
-So how are we going to turn this into practical solution 
-- DNA sequencer and DNA samples 
+So how are we going to turn this into practical solution (What we need and steps)
+- A DNA sequencer and provides DNA samples 
+- Linking the DNA sequencer into a computer for analytics 
+- A program that can receive the data packets from the sequencer 
+- A program that will store then analyze/compare the datasets until there is a result. 
