@@ -25,3 +25,7 @@ So how are we going to turn this into practical solution (What we need and steps
 - Linking the DNA sequencer into a computer for analytics 
 - A program that can receive the data packets from the sequencer 
 - A program that will store then analyze/compare the datasets until there is a result. 
+
+
+
+Next step, will be research to see the DNA sequencer, data packets, connectivity and testing a data packet for a simple algo to see the feasbility. 
