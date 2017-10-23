@@ -34,3 +34,11 @@ Next step, will be research to see the DNA sequencer, data packets, connectivity
 Below links to an example of the data format that is outputted from the DNA analyzer. 
 
 https://www.genomatix.de/online_help/help/sequence_formats.html
+
+
+
+Further research with the DNA analysis Node.js 
+http://thejackalofjavascript.com/dna-analysis-node-js/
+And many related technology such as Genome.js and datapackets for analysis. 
+
+Within the link it gives an example of using a genome to check the person's gender using Genoset 144 – Male example. 
